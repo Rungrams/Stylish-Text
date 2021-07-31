@@ -23,11 +23,11 @@ async def start(c, m):
     # Buttons
     buttons = [
         [
-            InlineKeyboardButton('SUPPORT', url=f"https://t.me/run_gram"),
-            InlineKeyboardButton('UPDATE', url=f"https://t.me/rungram"),
-            InlineKeyboardButton('TORRENT LEECH', url=f"https://t.me/tg_leech"),
-            InlineKeyboardButton('DEV', url=f"https://t.me/bot_developer"),
-            InlineKeyboardButton('SUBSCRIBE', url=f"https://"),
+            InlineKeyboardButton('SUPPORT', url="https://t.me/run_gram"),
+            InlineKeyboardButton('UPDATE', url="https://t.me/rungram"),
+            InlineKeyboardButton('TORRENT LEECH', url="https://t.me/tg_leech"),
+            InlineKeyboardButton('DEV', url="https://t.me/bot_developer"),
+            InlineKeyboardButton('SUBSCRIBE', url="https://"),
         ]
     ]
     await m.reply_text(
