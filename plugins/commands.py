@@ -25,8 +25,10 @@ async def start(c, m):
         [
             InlineKeyboardButton('SUPPORT', url="https://t.me/run_gram"),
             InlineKeyboardButton('UPDATE', url="https://t.me/rungram"),
+            ],[
             InlineKeyboardButton('TORRENT LEECH', url="https://t.me/tg_leech"),
             InlineKeyboardButton('DEV', url="https://t.me/bot_developer"),
+            ],[
             InlineKeyboardButton('SUBSCRIBE', url="https://youtube.com/channel/UC1SeMwgyNDi_n4T8cbgVjKQ"),
         ]
     ]
