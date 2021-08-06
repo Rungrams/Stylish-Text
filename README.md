@@ -24,7 +24,7 @@ Press the button Deploy to heroku and give the values for the config vars. 👇
 Deploy to RAILWAY 🗳
 Press the button Deploy to RAILWAY and give the values for the config vars. 👇
 
-[![Deploy](https://www.railwatcdn.com/deploy/button.svg)](https://railway.app/deploy?template=https://github.com/rungrams/Stylish-Text)
+[![Deploy](https://www.railway.app/deploy/button.svg)](https://railway.app/deploy?template=https://github.com/rungrams/Stylish-Text)
 
 
 
