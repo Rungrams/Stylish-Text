@@ -23,10 +23,10 @@ async def start(c, m):
     # Buttons
     buttons = [
         [
-            InlineKeyboardButton('CHANNEL📢', url="https://t.me/run_gram"),
-            InlineKeyboardButton('GROUP👥', url="https://t.me/rungram"),
+            InlineKeyboardButton('CHANNEL📢', url="https://t.me/tobot_update"),
+            InlineKeyboardButton('GROUP👥', url="https://t.me/tobotupdate"),
             ],[
-            InlineKeyboardButton('TORRENT LEECH☯️', url="https://t.me/tg_leech"),
+            InlineKeyboardButton('DEVLOAPER👩‍💻', url="https://t.me/RUNGRAM"),
             InlineKeyboardButton('REPO🤖', url="https://t.me/bot_repo"),
             ],[
             InlineKeyboardButton('🔔SUBSCRIBE🔔', url="https://youtube.com/channel/UC1SeMwgyNDi_n4T8cbgVjKQ"),
